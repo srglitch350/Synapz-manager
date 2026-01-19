@@ -20,27 +20,27 @@ Synapz proporciona una solución flexible y auditable para estos requerimientos.
 
 ##  Características Principales
 
-### ** Núcleo RBAC**
+### **Núcleo RBAC**
 - [ ] **Roles jerárquicos** (admin → manager → user)
 - [ ] **Permisos granulares** (create, read, update, delete, approve)
 - [ ] **Políticas de acceso** condicionales
 - [ ] **Herencia de permisos** entre roles
 - [ ] **Multi-tenancy** (soporte para múltiples organizaciones)
 
-### ** Seguridad y Auditoría**
+### **Seguridad y Auditoría**
 - [ ] **Log de accesos** detallado
 - [ ] **Doble verificación** para operaciones críticas
 - [ ] **Expiración de permisos** temporales
 - [ ] **Exportación de reports** de seguridad
 - [ ] **API rate limiting** por rol
 
-### **👥 Gestión de Usuarios**
+### **Gestión de Usuarios**
 - [ ] **Invitation system** con enlaces únicos
 - [ ] **Bulk operations** para gestión masiva
 - [ ] **Perfiles personalizables** por usuario
 - [ ] **Import/Export** de usuarios y permisos
 
-### ** Dashboard y Analytics**
+### **Dashboard y Analytics**
 - [ ] **Visualización de permisos** (mapa de calor)
 - [ ] **Reportes de actividad** por usuario/rol
 - [ ] **Alertas de seguridad** (permisos inusuales)
